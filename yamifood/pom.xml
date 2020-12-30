@@ -7,7 +7,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.4.0</version>
-		<relativePath /> <!-- lookup kparent from repository -->
+		<relativePath /> <!-- lookup kffparent from repository -->
 	</parent>
 	<groupId>docker</groupId>
 	<artifactId>Yamifood</artifactId>
